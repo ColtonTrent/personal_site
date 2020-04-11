@@ -1,0 +1,282 @@
+[
+    {
+        "date": "2020-08-23",
+        "leadStyle": "Onsight",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Cold Springs",
+            "Split Rock",
+            "The Spire"
+        ],
+        "name": "Why Go Left",
+        "notes": "",
+        "pitches": "1",
+        "rating": "5.9",
+        "routeId": 113532301,
+        "style": "Lead",
+        "tickId": 118602767,
+        "type": "Sport",
+        "url": "https://www.mountainproject.com/route/113532301/why-go-left",
+        "userRating": "",
+        "userStars": -1
+    },
+    {
+        "date": "2019-11-11",
+        "leadStyle": "Onsight",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Promontory",
+            "The Abyss Boulder"
+        ],
+        "name": "Poop Deck",
+        "notes": "",
+        "pitches": "",
+        "rating": "5.9",
+        "routeId": 109796975,
+        "style": "Lead",
+        "tickId": 118603029,
+        "type": "Sport",
+        "url": "https://www.mountainproject.com/route/109796975/poop-deck",
+        "userRating": "",
+        "userStars": -1
+    },
+    {
+        "date": "2019-11-02",
+        "leadStyle": "Onsight",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Cold Springs",
+            "Split Rock",
+            "The Dome"
+        ],
+        "name": "Frosted Flake",
+        "notes": "",
+        "pitches": "1",
+        "rating": "5.10a",
+        "routeId": 113526501,
+        "style": "Lead",
+        "tickId": 118603042,
+        "type": "Sport",
+        "url": "https://www.mountainproject.com/route/113526501/frosted-flake",
+        "userRating": "",
+        "userStars": -1
+    },
+    {
+        "date": "2019-10-13",
+        "leadStyle": "Onsight",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Promontory",
+            "Puff Boulder"
+        ],
+        "name": "Sea Legs",
+        "notes": "",
+        "pitches": "",
+        "rating": "5.10a",
+        "routeId": 109920556,
+        "style": "Lead",
+        "tickId": 117878698,
+        "type": "Sport",
+        "url": "https://www.mountainproject.com/route/109920556/sea-legs",
+        "userRating": "",
+        "userStars": -1
+    },
+    {
+        "date": "2019-10-13",
+        "leadStyle": "Onsight",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Promontory",
+            "Puff Boulder"
+        ],
+        "name": "Blowhole",
+        "notes": "",
+        "pitches": "",
+        "rating": "5.7",
+        "routeId": 109999658,
+        "style": "Lead",
+        "tickId": 117878239,
+        "type": "Sport",
+        "url": "https://www.mountainproject.com/route/109999658/blowhole",
+        "userRating": "",
+        "userStars": -1
+    },
+    {
+        "date": "2019-09-08",
+        "leadStyle": "Redpoint",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Cold Springs",
+            "Split Rock",
+            "The Dome"
+        ],
+        "name": "The Corner",
+        "notes": "",
+        "pitches": "1",
+        "rating": "5.10d",
+        "routeId": 113526379,
+        "style": "Lead",
+        "tickId": 118602770,
+        "type": "Sport, TR",
+        "url": "https://www.mountainproject.com/route/113526379/the-corner",
+        "userRating": "",
+        "userStars": -1
+    },
+    {
+        "date": "2019-08-31",
+        "leadStyle": "Onsight",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Chezem Cliffs",
+            "South Face"
+        ],
+        "name": "Scorpion's Cave",
+        "notes": "",
+        "pitches": "1",
+        "rating": "5.9-",
+        "routeId": 114557263,
+        "style": "Lead",
+        "tickId": 118746798,
+        "type": "Sport, TR",
+        "url": "https://www.mountainproject.com/route/114557263/scorpions-cave",
+        "userRating": "",
+        "userStars": -1
+    },
+    {
+        "date": "2019-08-31",
+        "leadStyle": "Onsight",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Chezem Cliffs",
+            "South Face"
+        ],
+        "name": "Right Around",
+        "notes": "",
+        "pitches": "1",
+        "rating": "5.9+",
+        "routeId": 114557477,
+        "style": "Lead",
+        "tickId": 118602790,
+        "type": "Sport, TR",
+        "url": "https://www.mountainproject.com/route/114557477/right-around",
+        "userRating": "",
+        "userStars": -1
+    },
+    {
+        "date": "2019-08-31",
+        "leadStyle": "Onsight",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Chezem Cliffs",
+            "South Face"
+        ],
+        "name": "Vultures Feather",
+        "notes": "",
+        "pitches": "1",
+        "rating": "5.8-",
+        "routeId": 114557932,
+        "style": "Lead",
+        "tickId": 118602788,
+        "type": "Sport, TR",
+        "url": "https://www.mountainproject.com/route/114557932/vultures-feather",
+        "userRating": "",
+        "userStars": -1
+    },
+    {
+        "date": "2019-08-23",
+        "leadStyle": "Onsight",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Cold Springs",
+            "Split Rock",
+            "The Dome"
+        ],
+        "name": "Around the Bulge",
+        "notes": "",
+        "pitches": "1",
+        "rating": "5.8+",
+        "routeId": 113526422,
+        "style": "Lead",
+        "tickId": 118747201,
+        "type": "Sport",
+        "url": "https://www.mountainproject.com/route/113526422/around-the-bulge",
+        "userRating": "",
+        "userStars": -1
+    },
+    {
+        "date": "2019-08-23",
+        "leadStyle": "Redpoint",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Cold Springs",
+            "Split Rock",
+            "The Dome"
+        ],
+        "name": "Battle of the Bulge",
+        "notes": "",
+        "pitches": "1",
+        "rating": "5.9",
+        "routeId": 113526407,
+        "style": "Lead",
+        "tickId": 118602759,
+        "type": "Sport",
+        "url": "https://www.mountainproject.com/route/113526407/battle-of-the-bulge",
+        "userRating": "",
+        "userStars": -1
+    },
+    {
+        "date": "2019-08-23",
+        "leadStyle": "Onsight",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Cold Springs",
+            "Split Rock",
+            "The Dome"
+        ],
+        "name": "Sweet Mammaries",
+        "notes": "",
+        "pitches": "1",
+        "rating": "5.8",
+        "routeId": 113523549,
+        "style": "Lead",
+        "tickId": 118602757,
+        "type": "Sport, TR",
+        "url": "https://www.mountainproject.com/route/113523549/sweet-mammaries",
+        "userRating": "",
+        "userStars": -1
+    },
+    {
+        "date": "2019-08-23",
+        "leadStyle": "Redpoint",
+        "location": [
+            "California",
+            "Redwood Coast",
+            "Cold Springs",
+            "Split Rock",
+            "The Dome"
+        ],
+        "name": "Tree Enema",
+        "notes": "",
+        "pitches": "1",
+        "rating": "5.7",
+        "routeId": 113523542,
+        "style": "Lead",
+        "tickId": 118602756,
+        "type": "Sport, TR",
+        "url": "https://www.mountainproject.com/route/113523542/tree-enema",
+        "userRating": "",
+        "userStars": -1
+    }
+]

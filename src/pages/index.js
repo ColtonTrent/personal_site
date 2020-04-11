@@ -1,21 +1,23 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from 'react'
+import Layout from '../components/Layout';
+import Barchart from '../components/barchart';
+import TickTable from '../components/test';
+import SEO from '../components/seo';
 
-import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+function IndexPage () {
+  return (
+    <Layout>
+    <SEO
+    keywords={[`gatsby`, `react`]}
+    title="Home"/>
+    <h1 style={{
+      color: '#333',
+      fontSize: '200%'
+    }}>Home</h1>
+    <TickTable />
+    <Barchart />
   </Layout>
-)
-
-export default IndexPage
+  );
+}
+export default  IndexPage;
