@@ -1,5 +1,5 @@
 import React from 'react'
-import Layout from '../components/Layout';
+import Layout from '../components/layout';
 import Barchart from '../components/barchart';
 import TickTable from '../components/test';
 import SEO from '../components/seo';
