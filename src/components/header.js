@@ -62,6 +62,10 @@ function Header() {
             {
               route: `/contact`,
               title: `Contact`
+            },
+            {
+              route: `/cart`,
+              title: `Cartography`
             }
           ].map(link => (
             <Link
